@@ -71,3 +71,17 @@
 ## Добавление картинок
 
 ![инструкция](manual.jpg)
+
+## Ветки в git
+
+> git branch 
+
+чтобы посмотреть все ветки 
+
+> git branch branch_name
+
+создание ветки
+
+> git checkout branch_name
+
+переместиться к нужной ветке
