@@ -85,3 +85,17 @@
 > git checkout branch_name
 
 переместиться к нужной ветке
+
+## Слияние веток
+
+> git merge branch_name
+
+## Удаление веток 
+
+> git branch -d branch_name
+
+удаление ветки
+
+> git branch -D branch_name
+
+удаление ветки игнорируя возникшие ошибки
