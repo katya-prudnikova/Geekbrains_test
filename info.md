@@ -86,10 +86,6 @@
 
 переместиться к нужной ветке
 
-## Слияние веток
-
-> git merge branch_name
-
 ## Удаление веток 
 
 > git branch -d branch_name
